@@ -1,0 +1,7 @@
+requests-html
+selenium
+requests
+bs4
+newspaper3k
+language_tool_python
+html-text
